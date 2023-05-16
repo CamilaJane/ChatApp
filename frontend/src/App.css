@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,700;1,400&display=swap');
+
 body {
   background-image: url('./assets/valley.jpeg');
   background-repeat: no-repeat;
@@ -24,7 +26,7 @@ body {
 
 .form-title { 
   font-size: 42px; 
-  font-family: 'Avenir'; 
+  font-family: "Nunito", sans-serif; 
   font-weight: 800; 
   letter-spacing: 0.5px; 
   color: #e8e8e8; 
@@ -33,7 +35,7 @@ body {
 
 .form-subtitle {
   font-size: 18px;
-  font-family: 'Avenir';
+  font-family: "Nunito", sans-serif;
   letter-spacing: 0.5px;
   color: #afafaf;
   padding-bottom: 24px;
@@ -57,7 +59,7 @@ body {
 .auth-input {
   background-color: #3e404b;
   color: white;
-  font-family: "Avenir";
+  font-family: "Nunito", sans-serif;
   outline: none;
   border: none;
   border-radius: 8px;
@@ -73,7 +75,7 @@ body {
   border: none;
   outline: none;
   border-radius: 8px;
-  font-family: "Avenir";
+  font-family: "Nunito", sans-serif;
   cursor: pointer;
   transition: all .44s ease;
   -webkit-transition: all .44s ease;
