@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
